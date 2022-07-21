@@ -1,0 +1,205 @@
+@import url(../fonts/ubuntu-font-family/fonts.css);
+
+:root {
+    --background: lightgray;
+    --main: rgb(7, 139, 53);
+    --alternate: rgb(10, 111, 174);
+}
+
+body {
+    background-color: var(--background);
+    font-family: "ubuntu", sans-serif;
+}
+
+.styled-link {
+    color: lightgray;
+    text-decoration: none;
+}
+
+.styled-link:visited {
+    color: lightblue;
+}
+
+.styled-link:hover {
+    color: salmon;
+}
+
+.content {
+    background-color: var(--main);
+    padding: 1em;
+    border-radius: 0.25em;
+}
+
+header {
+    background-image: url(./images/nav-background.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 1em;
+    border-radius: 0.25em;
+    text-align: center;
+}
+
+header * {
+    background-color: var(--alternate);
+    padding: 0.125em;
+    border-radius: 0.25em;
+}
+
+.sub-content nav ul {
+    background-color: var(--alternate);
+    padding: 1em 1em;
+    border-radius: 0.5em;
+}
+
+.sub-content nav ul li {
+    border: 0.125em solid black;
+    padding: 0.125em;
+    margin: 0.125em;
+    list-style-type: none;
+    text-align: center;
+}
+
+.sub-content main #capitol-image {
+    max-width: 100%;
+    border-radius: 0.25em;
+}
+
+.sub-content table {
+    border: 0.25em solid black;
+    border-radius: 0.25em;
+    margin-bottom: 1em;
+}
+
+.sub-content table tr:nth-of-type(odd){
+    background-color: lightgray;
+}
+
+.sub-content table tr:nth-of-type(even){
+    background-color: gray;
+}
+
+.sub-content aside table tr td {
+    margin: 0;
+    border: 0;
+}
+
+.sub-content aside table tr td, .sub-content aside ul li {
+    padding: 0.25em;
+}
+
+.sub-content aside form {
+    display: grid;
+    grid-template-columns: 5em 1fr;
+    background-color: var(--alternate);
+    padding: 1em 2em;
+    border-radius: 0.25em;
+}
+
+.sub-content aside form * {
+    margin: 0.5em 0em;
+}
+
+.youtube-container {
+    position: relative;
+    padding-bottom: 56.25%;
+}
+
+.youtube-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0.25em solid black;
+    border-radius: 0.25em;
+}
+
+footer {
+    margin-top: 1em;
+    background-color: var(--alternate);
+    padding: 1em;
+    border-radius: 0.25em;
+}
+
+@media screen and (min-width: 400px) {
+    .sub-content main #capitol-image {
+        margin: 1em;
+        width: 50%;
+        float: right;
+        transform: rotate(1.5deg);
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+
+    .tablet-sub-content {
+        display: flex;
+    }
+
+    .sub-content nav {
+        flex: 1;
+        margin-right: 2em;
+    }
+
+    .sub-content main {
+        flex: 6;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+
+    .content {
+        max-width: 80em;
+        margin: auto;
+    }
+
+    .sub-content {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .sub-content aside {
+        flex: 1;
+    }
+
+    .tablet-sub-content {
+        display: flex;
+        flex: 6;
+    }
+
+    .sub-content nav {
+        flex: 1;
+    }
+
+    .sub-content nav ul {
+        margin-right: 2em;
+    }
+
+    .sub-content main {
+        flex: 5;
+        margin-right: 2em;
+    }
+
+    .sub-content aside {
+        flex: 3;
+    }
+}
+
+@media screen and (min-width: 80em) {
+
+    header * {
+        display: inline-block;
+    }
+
+    header h1 {
+        position: relative;
+        right: 10%;
+    }
+    
+    header p {
+        position: relative;
+        left: 10%;
+        word-wrap: break-word;
+    }
+}
