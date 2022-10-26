@@ -71,11 +71,11 @@ header * {
     margin-bottom: 1em;
 }
 
-.sub-content table tr:nth-of-type(odd){
+.sub-content table tr:nth-of-type(odd) {
     background-color: lightgray;
 }
 
-.sub-content table tr:nth-of-type(even){
+.sub-content table tr:nth-of-type(even) {
     background-color: gray;
 }
 
@@ -196,7 +196,7 @@ footer {
         position: relative;
         right: 10%;
     }
-    
+
     header p {
         position: relative;
         left: 10%;
