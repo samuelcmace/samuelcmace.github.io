@@ -1,5 +1,26 @@
+/* Import Japanese Gothic (Sans-Serif) Font */
 @import "fonts/Noto_Sans_JP/fonts.css";
 
+/* Styling for the Whole Document */
 body {
-    font-family: "NotoSansJP-Regular";
+    font-family: "NotoSansJP-Regular", sans-serif;
+    background-color: gray;
+}
+
+/* Styling for the Content Within the Main Container */
+.container {
+    margin-top: 1em;
+}
+
+.decorative-box {
+    padding: 0.5em;
+    background-color: white;
+    border-radius: 0.25em;
+    margin: 1em 0;
+}
+
+/* Footer Styling */
+footer {
+    display: flex;
+    justify-content: space-between;
 }
