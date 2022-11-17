@@ -1,0 +1,51 @@
+/* Import Japanese Gothic (Sans-Serif) Font */
+@import "fonts/Noto_Sans_JP/fonts.css";
+
+/* Styling for the Whole Document */
+body {
+    font-family: "NotoSansJP-Regular", sans-serif;
+    background-color: gray;
+}
+
+/* Styling Rules for Headings */
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.375em;
+}
+
+h3 {
+    font-size: 1.25em;
+}
+
+h4 {
+    font-size: 1.125em;
+}
+
+h5 {
+    font-size: 0.875em;
+}
+
+h6 {
+    font-size: 0.75em;
+}
+
+/* Styling for the Content Within the Main Container */
+.container {
+    margin-top: 1em;
+}
+
+.decorative-box {
+    padding: 0.5em;
+    background-color: white;
+    border-radius: 0.25em;
+    margin: 1em 0;
+}
+
+/* Footer Styling */
+footer {
+    display: flex;
+    justify-content: space-between;
+}
