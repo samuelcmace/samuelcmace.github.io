@@ -15,12 +15,15 @@ have worked on.
 
 As a capstone project to complete my Software Developer Associate program at Northeast Wisconsin Technical College, I
 had the opportunity to piece together a large software application. For this task, I chose the Spring Boot framework so
-that I could practice my skills in the Java programming language. This project taught me the Spring MVC architecture for
-API design, the Spring Security framework, and the Spring Data JPA for database access in large database-driven
-applications.
+that I could refine my skills in the Java programming language. This project taught me the Spring MVC architecture for
+REST API design, the Spring Security framework for JWT Token Authentication and Authorization, as well as the Spring
+Data JPA for database access in large database-driven applications. I was able to code the frontend in JavaScript,
+making AJAX calls to the backend to fetch information as needed.
 
 As part of a separate class, I created an Android application using Kotlin to interface with the customer portion of the
-API. By completing this, I learned the basics of mobile 
+API that I completed as part of my capstone. By completing this mobile application, I learned the basics of activity and
+fragment navigation, UI components, Firebase and REST API integration, database access using Room, as well as location
+detection and the Google Maps API.
 
 # Understanding the Kanji
 
@@ -56,5 +59,3 @@ patterns) and the importance of good team collaboration software (such as the gi
 For my final project in my website coding class, I was assigned the task to create a multiple-page website that would
 incorporate multimedia content. Since at the time, I was piecing together some road trip footage and posting these
 videos on YouTube, I decided to create a website to showcase these videos.
-
-
