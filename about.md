@@ -35,6 +35,19 @@ designed meant for use in scripting and automation.
 - PowerShell
 - SQL (TSQL)
 
+## Markup Languages
+
+While not as "cool" as general purpose programming languages or scripting languages, markup languages still play a vital
+role in the application development sphere. Here are some markup languages I have had the opportunity to work with
+throughout the years:
+
+- HTML
+- Markdown
+- LaTeX
+- JSON
+- XML
+- YAML
+
 ## Frameworks
 
 Throughout the course of my education, I have had the opportunity to work with many different web, desktop, and mobile
