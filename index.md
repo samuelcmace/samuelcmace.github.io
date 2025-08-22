@@ -1,15 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
 ようこそ！
 
-My name is Samuel Mace. I am currently a student at the University of Wisconsin &ndash; Green Bay seeking a bachelor's
-degree in Computer Science. I am interested in learning new technologies and applying them to real-world use cases in
-industry. When I am not busy learning about technology, I can be found traveling and studying the Japanese language.
+My name is Samuel Mace. I am currently a student at the University of Wisconsin–Green Bay, pursuing a bachelor’s degree in Computer Science. I am in the final stages of completing my degree and am actively seeking positions that will allow me to apply what I have learned to real-world use cases in industry. I will be open to full-time work opportunities starting in January 2026.
 
-I created this website both to showcase my skills to potential employers and to educate the wider community about
-my findings in the field. I enjoy learning new technologies and may share them here from time-to-time.
+Recently, I had the amazing opportunity to complete an internship with an international nonprofit in Southeast Asia. This experience was both professionally and culturally rewarding, as it allowed me to work cross-culturally in an international context. As I enter the more serious stages of my job search, I am actively seeking positions that will allow me to continue building on this cross-cultural experience. While I am focusing my job search in Tokyo due to my current level of Japanese proficiency, I am also open to opportunities across Asia if they align well with my skills and experience.
