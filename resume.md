@@ -19,14 +19,14 @@ Having experience in both software engineering and DevOps, I am seeking a positi
 
 ## Work Experience
 
-**International Nonprofit** <span style="float:right">In-Person – Southeast Asia</span><br>
-*Mobile App Development Intern* <span style="float:right">May 2025 – August 2025</span>
+**International Nonprofit**<span style="float:right">In-Person – Southeast Asia</span><br>
+*Mobile App Development Intern*<span style="float:right">May 2025 – August 2025</span>
 
 - Updated the design of two existing mobile applications alongside other team members, ensuring proper localization for these applications based on the unique culture and context.
 - Worked in both a synchronous and asynchronous context with team members both in-person and in different countries across the world, ensuring proper collaboration throughout the app development process.
 
-**SECURA Insurance** <span style="float:right">Hybrid – Neenah, WI</span><br>
-*Platform Engineering Intern* <span style="float:right">January 2024 – May 2025</span>
+**SECURA Insurance**<span style="float:right">Hybrid – Neenah, WI</span><br>
+*Platform Engineering Intern*<span style="float:right">January 2024 – May 2025</span>
 
 - Built reusable GitHub Actions workflows and custom actions for C#/.NET CI/CD pipelines, simplifying deployment and enabling long-term cost savings.
 - Migrated numerous repositories from Microsoft TFS to GitHub Enterprise; transitioned integrated pipelines to TeamCity as an interim solution with future GitHub Actions adoption.
@@ -34,8 +34,8 @@ Having experience in both software engineering and DevOps, I am seeking a positi
 - Prototyped a containerized GitHub Actions Runner Controller using Kubernetes and MicroK8s on RHEL, enabling cloud-based GitHub workflows to execute jobs on on-prem infrastructure; praised by senior engineers.
 - Prepared dev, QA, and staging environments for the migration of IIS-hosted web and API applications from Windows Server 2012 to 2022, ensuring deployment readiness during a teammate’s absence and coordinating with developers to resolve integration issues.
 
-**SECURA Insurance** <span style="float:right">Hybrid – Neenah, WI</span><br>
-*Software Developer Intern* <span style="float:right">May 2023 – December 2023</span>
+**SECURA Insurance**<span style="float:right">Hybrid – Neenah, WI</span><br>
+*Software Developer Intern*<span style="float:right">May 2023 – December 2023</span>
 
 - Developed features for a commercial-lines insurance web portal using Java, JSP, SQL Server, JavaScript, jQuery, and Grunt in a fast-paced Agile environment.
 - Collaborated with analysts and testers to refine requirements and ensure successful delivery across development, QA, and production environments.
@@ -43,14 +43,14 @@ Having experience in both software engineering and DevOps, I am seeking a positi
 
 ## Education
 
-**University of Wisconsin–Green Bay** <span style="float:right">Hybrid – Green Bay, WI</span><br>
-*Bachelor of Science, Computer Science<br>(Software Engineering Emphasis)* <span style="float:right">Sep 2023 – Dec 2025 (Expected)</span><br>
-**GPA:** 3.94 <span style="float:right">**Honors:** Multiple Semester Highest Honors, Semester Honors</span>
+**University of Wisconsin–Green Bay**<span style="float:right">Hybrid – Green Bay, WI</span><br>
+*Bachelor of Science, Computer Science<br>(Software Engineering Emphasis)*<span style="float:right">Sep 2023 – Dec 2025 (Expected)</span><br>
+**GPA:** 3.94<span style="float:right">**Honors:** Multiple Semester Highest Honors, Semester Honors</span>
 
 **Relevant Coursework:** Advanced Object-Oriented Design, Cloud Computing with AWS, Machine Learning, Operating Systems (Linux), Computer Architecture, Algorithms, Programming Languages
 
-**Northeast Wisconsin Technical College** <span style="float:right">Hybrid – Green Bay, WI</span><br>
-*Associate Degree, IT Software Developer* <span style="float:right">Sep 2021 – May 2023</span>
+**Northeast Wisconsin Technical College**<span style="float:right">Hybrid – Green Bay, WI</span><br>
+*Associate Degree, IT Software Developer*<span style="float:right">Sep 2021 – May 2023</span>
 
 **Relevant Coursework:** ASP.NET, C#, Java, Native Android Development, Frontend Web Development (HTML, CSS, JavaScript, jQuery), Relational Databases
 
