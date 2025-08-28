@@ -13,7 +13,7 @@ Having experience in both software engineering and DevOps, I am seeking a positi
 - **Cloud/Infra:** AWS, Azure, Docker, Kubernetes, Helm, MicroK8s, Vagrant
 - **Frameworks:** .NET, Spring Boot, Express.js, Flutter, Android SDK
 - **Databases:** SQL Server, MariaDB, MongoDB, SQLite
-- **Tools/IDEs:** VS Code, JetBrains Suite, Postman, Visual Studio
+- **Tools/IDEs:** Git/GitHub, VS Code, JetBrains Suite, Postman, Visual Studio
 
 [Click here](/about/) to learn more about my technical skills.
 
