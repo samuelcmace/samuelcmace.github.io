@@ -21,8 +21,7 @@
 title: Samuel Mace
 email: samuelcmace@gmail.com
 description: >-
-  A portfolio and blog designed to share my findings as a computer science student with the rest of the developer
-  community.
+  A portfolio documenting my work in software engineering, with a focus on platform engineering and backend systems development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://samuelcmace.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: samuelcmace
